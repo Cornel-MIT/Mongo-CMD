@@ -48,21 +48,18 @@ Insert a document into the Projects collection:
  use the following commands:
 View all documents in the Facilitators collection:
 
-      ```bash
       db.Facilitators.find().pretty()
-      ```
+      
 
 View all documents in the Trainees collection:
 
-      ```bash
      db.Trainees.find().pretty()
-      ```
+      
 
 View all documents in the Projects collection:
 
-     ```bash
      db.Projects.find().pretty()
-     ``` 
+     
 
 ## Media Screenshots     
 ![View more details about the collection](media/Mongod_View-More.png)  
